@@ -70,7 +70,7 @@ Update your `AtmClientApp`, adding a `Press 4 to exit` option. Keep prompting th
 ## Examples
 
 ```bash
-Welcome to Bank of We Can Code IT ATM.
+Welcome to Our Bank.
 Please enter your PIN:
 1234
 
