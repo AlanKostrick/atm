@@ -45,7 +45,7 @@ Add the following to your `AtmClientApp` class (these are all predicated on the 
 ##### Stretch Task.
 
 - add the beginning balance to the `Atm` *constructor*.
-- use `java.math.BigDecimal` to store balance instead of `double`.
+- use `NumberFormat` import to cast your double into U.S. currency
 
 #### Allow withdrawals
 
